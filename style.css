@@ -1,0 +1,21 @@
+h1{
+    font-size: 40px;
+    color: hsl(209, 72%, 56%);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    font-size: 30px;
+    color: rgb(19, 22, 22);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.lBar{
+    background-color: hsl(209, 88%, 84%);
+    padding: 20px;
+    margin-bottom: 20px;
+}
