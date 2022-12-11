@@ -1,0 +1,41 @@
+[{  "id": 1,
+    "dia": "Lunes",
+    "turno": "10 Hs"
+},
+{  "id": 3,
+    "dia": "Martes",
+    "turno": "10 Hs"
+},
+{  "id": 5,
+    "dia": "Jueves",
+    "turno": "17 Hs"
+},
+{  "id": 7,
+    "dia": "Viernes",
+    "turno": "10 Hs"
+},
+{
+    "id": 2,
+    "dia": "Lunes",
+    "turno": "14 Hs"
+    
+},
+{
+    "id": 4,
+    "dia": "Martes",
+    "turno": "17 Hs"
+    
+},
+{
+    "id": 6,
+    "dia": "Jueves",
+    "turno": "19 Hs"
+    
+},
+{
+    "id": 8,
+    "dia": "Viernes",
+    "turno": "17 Hs"
+    
+}
+] 

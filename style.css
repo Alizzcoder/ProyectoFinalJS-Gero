@@ -19,3 +19,8 @@ h2{
     padding: 20px;
     margin-bottom: 20px;
 }
+
+.card-group{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}
